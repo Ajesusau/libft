@@ -6,7 +6,7 @@
 #    By: anareval <anareval@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2024/12/12 13:32:02 by anareval          #+#    #+#              #
-#    Updated: 2025/01/17 15:28:27 by anareval         ###   ########.fr        #
+#    Updated: 2025/01/17 17:15:25 by anareval         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -57,6 +57,7 @@ BONUS_SOURCES = 	ft_lstnew.c \
 					ft_lstsize.c \
 					ft_lstlast.c \
 					ft_lstadd_back.c \
+					ft_lstdelone.c \
 
 OBJECTS = $(SOURCES:.c=.o)
 
