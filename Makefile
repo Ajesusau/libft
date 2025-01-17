@@ -6,7 +6,7 @@
 #    By: anareval <anareval@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2024/12/12 13:32:02 by anareval          #+#    #+#              #
-#    Updated: 2025/01/09 14:20:58 by anareval         ###   ########.fr        #
+#    Updated: 2025/01/17 15:28:27 by anareval         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -52,7 +52,11 @@ SOURCES =			ft_isalpha.c \
 					ft_putnbr_fd.c \
 					ft_split.c \
 
-BONUS_SOURCES = 	ft_lstnew_bonus.c \
+BONUS_SOURCES = 	ft_lstnew.c \
+					ft_lstadd_front.c \
+					ft_lstsize.c \
+					ft_lstlast.c \
+					ft_lstadd_back.c \
 
 OBJECTS = $(SOURCES:.c=.o)
 
