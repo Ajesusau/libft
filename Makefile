@@ -3,10 +3,10 @@
 #                                                         :::      ::::::::    #
 #    Makefile                                           :+:      :+:    :+:    #
 #                                                     +:+ +:+         +:+      #
-#    By: ajesusau <ajesusau@student.42.fr>          +#+  +:+       +#+         #
+#    By: anareval <anareval@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2024/12/12 13:32:02 by anareval          #+#    #+#              #
-#    Updated: 2025/01/21 09:53:39 by ajesusau         ###   ########.fr        #
+#    Updated: 2025/01/21 11:52:24 by anareval         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -60,6 +60,7 @@ BONUS_SOURCES = 	ft_lstnew.c \
 					ft_lstdelone.c \
 					ft_lstclear.c \
 					ft_lstiter.c \
+					ft_lstmap.c \
 
 OBJECTS = $(SOURCES:.c=.o)
 
