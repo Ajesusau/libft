@@ -6,7 +6,7 @@
 #    By: ajesusau <ajesusau@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2024/12/12 13:32:02 by anareval          #+#    #+#              #
-#    Updated: 2025/01/21 09:09:08 by ajesusau         ###   ########.fr        #
+#    Updated: 2025/01/21 09:53:39 by ajesusau         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -59,6 +59,7 @@ BONUS_SOURCES = 	ft_lstnew.c \
 					ft_lstadd_back.c \
 					ft_lstdelone.c \
 					ft_lstclear.c \
+					ft_lstiter.c \
 
 OBJECTS = $(SOURCES:.c=.o)
 
