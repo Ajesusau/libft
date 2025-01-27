@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_putnbr_fd.c                                     :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ajesusau <ajesusau@student.42.fr>          +#+  +:+       +#+        */
+/*   By: anareval <anareval@student.42malaga.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2025/01/05 20:14:57 by ajesusau          #+#    #+#             */
-/*   Updated: 2025/01/05 20:47:19 by ajesusau         ###   ########.fr       */
+/*   Created: 2025/01/05 20:14:57 by anareval          #+#    #+#             */
+/*   Updated: 2025/01/27 19:45:06 by anareval         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

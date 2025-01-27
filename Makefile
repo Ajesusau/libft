@@ -3,10 +3,10 @@
 #                                                         :::      ::::::::    #
 #    Makefile                                           :+:      :+:    :+:    #
 #                                                     +:+ +:+         +:+      #
-#    By: anareval <anareval@student.42.fr>          +#+  +:+       +#+         #
+#    By: anareval <anareval@student.42malaga.com    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2024/12/12 13:32:02 by anareval          #+#    #+#              #
-#    Updated: 2025/01/21 16:11:33 by anareval         ###   ########.fr        #
+#    Updated: 2025/01/27 19:47:28 by anareval         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 

@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_strlcpy.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: anareval <anareval@student.42.fr>          +#+  +:+       +#+        */
+/*   By: anareval <anareval@student.42malaga.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2024/12/18 20:51:36 by ajesusau          #+#    #+#             */
-/*   Updated: 2024/12/19 12:45:24 by anareval         ###   ########.fr       */
+/*   Created: 2024/12/18 20:51:36 by anareval          #+#    #+#             */
+/*   Updated: 2025/01/27 19:46:26 by anareval         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

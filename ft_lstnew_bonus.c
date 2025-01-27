@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_lstnew_bonus.c                                  :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: anareval <anareval@student.42.fr>          +#+  +:+       +#+        */
+/*   By: anareval <anareval@student.42malaga.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/01/09 14:24:43 by anareval          #+#    #+#             */
-/*   Updated: 2025/01/17 13:21:12 by anareval         ###   ########.fr       */
+/*   Updated: 2025/01/27 19:44:44 by anareval         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

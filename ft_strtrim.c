@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_strtrim.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ajesusau <ajesusau@student.42.fr>          +#+  +:+       +#+        */
+/*   By: anareval <anareval@student.42malaga.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2024/12/30 18:44:19 by ajesusau          #+#    #+#             */
-/*   Updated: 2024/12/30 21:07:32 by ajesusau         ###   ########.fr       */
+/*   Created: 2024/12/30 18:44:19 by anareval          #+#    #+#             */
+/*   Updated: 2025/01/27 19:46:58 by anareval         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

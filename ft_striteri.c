@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_striteri.c                                      :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ajesusau <ajesusau@student.42.fr>          +#+  +:+       +#+        */
+/*   By: anareval <anareval@student.42malaga.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2025/01/05 19:03:50 by ajesusau          #+#    #+#             */
-/*   Updated: 2025/01/05 19:11:14 by ajesusau         ###   ########.fr       */
+/*   Created: 2025/01/05 19:03:50 by anareval          #+#    #+#             */
+/*   Updated: 2025/01/27 19:46:08 by anareval         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
