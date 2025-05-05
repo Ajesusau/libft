@@ -11,18 +11,13 @@
 - Introducción al desarrollo de una biblioteca reutilizable.
 
 ## 📁 Estructura del Proyecto
-
-libft/
-├── ft_.c # Implementaciones de funciones
-├── ft_.h # Cabeceras auxiliares si se usan
-├── libft.h # Cabecera principal de la librería
-├── Makefile # Compilador y reglas de construcción
-└── README.md # Documentación del proyecto
-
-markdown
-Copiar
-Editar
-
+```
+  libft/
+  ├── ft_.c # Implementaciones de funciones
+  ├── libft.h # Cabecera principal de la librería
+  ├── Makefile # Compilador y reglas de construcción
+  └── README.md # Documentación del proyecto
+```
 ## ✅ Funciones Implementadas
 
 ### Parte 1: Funciones de la libc
@@ -80,21 +75,29 @@ Editar
 ## 🛠️ Compilación
 
 Para compilar la biblioteca, simplemente ejecuta:
+```
 make
+```
 Esto generará un archivo libft.a que puedes incluir en otros proyectos.
 
 Para limpiar archivos objeto:
+```
 make clean
-
+```
 Para limpiar todo, incluyendo libft.a:
+```
 make fclean
-
+```
 Para limpiar y recompilar:
+```
 make re
-
+```
 📌 Uso
 Incluye libft.a en tu proyecto y el archivo libft.h en tus archivos fuente:
+```
 #include "libft.h"
-
+```
 Luego compila con el archivo de librería:
-gcc main.c -L. -lft
+```
+gcc main.c libft.a
+```
