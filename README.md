@@ -99,5 +99,5 @@ Incluye libft.a en tu proyecto y el archivo libft.h en tus archivos fuente:
 ```
 Luego compila con el archivo de librería:
 ```
-gcc main.c libft.a
+cc main.c libft.a
 ```
